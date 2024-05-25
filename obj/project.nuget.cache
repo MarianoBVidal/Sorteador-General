@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MfHxNo8Dv+ZkHdAoEU6/txDJinbmCLeF9MTZAmklI6fCB21/63NHc/M1RMEoKTIL52WQE0pcL8v/HKzKQrHGrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Programacion\\Projectos VS\\sorteador-general\\sorteador-general.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.2\\microsoft.netcore.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.2\\microsoft.aspnetcore.app.runtime.win-x64.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

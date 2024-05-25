@@ -1,0 +1,2 @@
+C:\Programacion\Projectos VS\sorteador-general\bin\Release\net8.0\win-x64\publish\sorteador-general.pdb
+C:\Programacion\Projectos VS\sorteador-general\bin\Release\net8.0\win-x64\publish\sorteador-general.exe

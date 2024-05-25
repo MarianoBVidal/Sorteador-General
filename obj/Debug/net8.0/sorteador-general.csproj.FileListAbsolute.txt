@@ -1,0 +1,14 @@
+C:\Programacion\Projectos VS\sorteador-general\bin\Debug\net8.0\sorteador-general.exe
+C:\Programacion\Projectos VS\sorteador-general\bin\Debug\net8.0\sorteador-general.deps.json
+C:\Programacion\Projectos VS\sorteador-general\bin\Debug\net8.0\sorteador-general.runtimeconfig.json
+C:\Programacion\Projectos VS\sorteador-general\bin\Debug\net8.0\sorteador-general.dll
+C:\Programacion\Projectos VS\sorteador-general\bin\Debug\net8.0\sorteador-general.pdb
+C:\Programacion\Projectos VS\sorteador-general\obj\Debug\net8.0\sorteador-general.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Projectos VS\sorteador-general\obj\Debug\net8.0\sorteador-general.AssemblyInfoInputs.cache
+C:\Programacion\Projectos VS\sorteador-general\obj\Debug\net8.0\sorteador-general.AssemblyInfo.cs
+C:\Programacion\Projectos VS\sorteador-general\obj\Debug\net8.0\sorteador-general.csproj.CoreCompileInputs.cache
+C:\Programacion\Projectos VS\sorteador-general\obj\Debug\net8.0\sorteador-general.dll
+C:\Programacion\Projectos VS\sorteador-general\obj\Debug\net8.0\refint\sorteador-general.dll
+C:\Programacion\Projectos VS\sorteador-general\obj\Debug\net8.0\sorteador-general.pdb
+C:\Programacion\Projectos VS\sorteador-general\obj\Debug\net8.0\sorteador-general.genruntimeconfig.cache
+C:\Programacion\Projectos VS\sorteador-general\obj\Debug\net8.0\ref\sorteador-general.dll
